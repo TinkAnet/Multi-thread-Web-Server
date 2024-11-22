@@ -1,0 +1,10 @@
+/127.0.0.1:61448 Mon Apr 17 21:14:27 HKT 2023 /test.txt?If-Modified=2023-04-12%2013:29 404
+/127.0.0.1:61448 Mon Apr 17 21:14:57 HKT 2023 /hello.html?If-Modified=2023-04-12%2013:29 404
+/127.0.0.1:61458 Mon Apr 17 21:15:00 HKT 2023 services.addons.mozilla.org:443 404
+/127.0.0.1:61461 Mon Apr 17 21:15:00 HKT 2023 aus5.mozilla.org:443 404
+/127.0.0.1:61459 Mon Apr 17 21:15:00 HKT 2023 versioncheck-bg.addons.mozilla.org:443 404
+/127.0.0.1:61460 Mon Apr 17 21:15:00 HKT 2023 aus5.mozilla.org:443 404
+/127.0.0.1:61462 Mon Apr 17 21:15:00 HKT 2023 aus5.mozilla.org:443 404
+/127.0.0.1:61463 Mon Apr 17 21:15:00 HKT 2023 incoming.telemetry.mozilla.org:443 404
+/127.0.0.1:61464 Mon Apr 17 21:15:00 HKT 2023 http://ciscobinary.openh264.org/openh264-macosx64-aarch64-2e1774ab6dc6c43debb0b5b628bdf122a391d521.zip 404
+/127.0.0.1:61465 Mon Apr 17 21:15:00 HKT 2023 redirector.gvt1.com:443 404
